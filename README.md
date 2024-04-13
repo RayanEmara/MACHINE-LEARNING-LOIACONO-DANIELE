@@ -1,5 +1,9 @@
 # What to expect
 Notes for the "Machine learning" course, held by Daniele Loiacono on AY 2023-2024, course number 097683.
+
+Lectures with no available audio are transcribed from the previous academic year whenever available, a check-mark in the "Progress" column indicates that notes are complete.
+
+# Progress
 | Progress | Date            | Type         | Subject                                                      | Length |
 |----------|-----------------|--------------|--------------------------------------------------------------|--------|
 |  | 28/03/2024 12:29| Esercitazione| Exercise session - model selection                          | 90 min |
