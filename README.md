@@ -14,4 +14,4 @@
 | <span class="unchecked">☐</span>     | 29/02/2024 12:29| Esercitazione| Exercise session - Linear regression                         | 99 min |
 | <span class="unchecked">☐</span>     | 27/02/2024 14:24| Lezione      | ML 2024 - Linear Regression (part 2)                         | 103 min|
 | <span class="unchecked">☐</span>     | 22/02/2024 12:35| Lezione      | ML 2024 - Linear Regression (part 1)                         | 88 min |
-| <span class="unchecked">☐</span>     | 20/02/2024 14:33| Lezione      | ML 2024 - Introduction and Supervised Learning [NO AUDIO]    | 92 min |
+| <span class="checked">☐</span>     | 20/02/2024 14:33| Lezione      | ML 2024 - Introduction and Supervised Learning [NO AUDIO]    | 92 min |
