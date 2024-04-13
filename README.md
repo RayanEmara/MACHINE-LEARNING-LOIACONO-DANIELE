@@ -3,7 +3,7 @@
 
 | Progress | Date            | Type         | Subject                                                      | Length |
 |----------|-----------------|--------------|--------------------------------------------------------------|--------|
-| <span class="unchecked">☐</span>     | 28/03/2024 12:29| Esercitazione| Exercise session - model selection                          | 90 min |
+| ☑️    | 28/03/2024 12:29| Esercitazione| Exercise session - model selection                          | 90 min |
 | <span class="unchecked">☐</span>     | 26/03/2024 14:29| Lezione      | ML 2024 - Kernel Methods                                     | 89 min |
 | <span class="unchecked">☐</span>     | 21/03/2024 12:29| Esercitazione| Exercise session - Bias-variance trade-off                   | 90 min |
 | <span class="unchecked">☐</span>     | 19/03/2024 14:29| Lezione      | ML 2024 - Model Evaluation, Selection, and Ensemble (part 2)| 97 min |
