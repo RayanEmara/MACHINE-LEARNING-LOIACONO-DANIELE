@@ -2,7 +2,10 @@
 Notes for the "Machine learning" course, held by Daniele Loiacono on AY 2023-2024, course number 097683.
 
 Lectures with no available audio are transcribed from the previous academic year whenever available, a check-mark in the "Progress" column indicates that notes are complete.
+
 Recordings are available (if you have access) at [this link](https://webeep.polimi.it/course/view.php?id=11699&section=3).
+Slides are availalbe on the course webeep page.
+
 # Progress
 | Progress | Date            | Type         | Subject                                                      | Length |
 |----------|-----------------|--------------|--------------------------------------------------------------|--------|
