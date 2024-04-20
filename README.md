@@ -19,5 +19,5 @@ Slides are availalbe on the course webeep page.
 |  | 05/03/2024 14:32| Lezione      | ML 2024 - {NO AUDIO} Linear Regression (part 3) + Linear Classification (part 1)| 95 min |
 |  | 29/02/2024 12:29| Esercitazione| Exercise session - Linear regression                         | 99 min |
 |  | 27/02/2024 14:24| Lezione      | ML 2024 - Linear Regression (part 2)                         | 103 min|
-|  | 22/02/2024 12:35| Lezione      | ML 2024 - Linear Regression (part 1)                         | 88 min |
+|☑️| 22/02/2024 12:35| Lezione      | ML 2024 - Linear Regression (part 1)                         | 88 min |
 |☑️| 20/02/2024 14:33| Lezione      | ML 2024 - Introduction and Supervised Learning [NO AUDIO]    | 92 min |
